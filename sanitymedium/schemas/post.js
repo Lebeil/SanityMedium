@@ -6,6 +6,12 @@ export default {
     {
       name: 'title',
       title: 'Title',
+      description: 'hello',
+      type: 'string',
+    },
+    {
+      name: 'description',
+      title: 'description',
       type: 'string',
     },
     {

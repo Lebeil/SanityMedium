@@ -3,6 +3,7 @@ import {
     createPortableTextComponent,
     createPreviewSubscriptionHook,
     createCurrentUserHook,
+    createClient,
   } from 'next-sanity'
 
   export const config = {
