@@ -9,7 +9,7 @@ interface Props{
 }
 
 export default function Home({posts}: Props) {
-  console.log(posts);
+  console.log("posts".substring(1,2));
   
   return (
     <div className='max-w-7xl mx-auto'>
