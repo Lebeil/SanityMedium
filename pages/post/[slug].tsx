@@ -37,7 +37,7 @@ function Post({post}: Props) {
     }
 
   return (
-    <main>
+    <main className="mx-5">
         <Header/>
 
         <img
